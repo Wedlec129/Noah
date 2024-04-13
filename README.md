@@ -17,7 +17,7 @@
 
 # 1) Режим скана по друзьям:
 <p align="center">
-      <img src="https://github.com/Wedlec129/Noah/blob/master/foto/1.png" width="726">
+      <img src="https://github.com/Wedlec129/Noah/blob/master/foto/11.png" width="726">
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 # 2) Режим скана по группам:
 <p align="center">
-      <img src="https://github.com/Wedlec129/Noah/blob/master/foto/3.png" width="726">
+      <img src="https://github.com/Wedlec129/Noah/blob/master/foto/33.png" width="726">
 </p>
 
 <p align="center">
